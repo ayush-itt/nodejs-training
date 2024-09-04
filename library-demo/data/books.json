@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "authorId": 1
+    },
+    { "id": 2, "title": "The Hobbit", "authorId": 2 },
+    { "id": 3, "title": "Pride and Prejudice", "authorId": 3 },
+    { "id": 4, "title": "To Kill a Mockingbird", "authorId": 4 },
+    { "id": 5, "title": "1984", "authorId": 5 },
+    { "id": 6, "title": "The Great Gatsby", "authorId": 6 },
+    { "id": 7, "title": "Moby-Dick", "authorId": 7 },
+    { "id": 8, "title": "War and Peace", "authorId": 8 },
+    { "id": 9, "title": "The Catcher in the Rye", "authorId": 9 },
+    { "id": 10, "title": "The Lord of the Rings", "authorId": 2 },
+    { "id": 11, "title": "Jane Eyre", "authorId": 10 },
+    { "id": 12, "title": "Animal Farm", "authorId": 5 },
+    { "id": 13, "title": "The Catcher in the Rye", "authorId": 9 },
+    { "id": 14, "title": "Brave New World", "authorId": 11 },
+    { "id": 15, "title": "The Adventures of Huckleberry Finn", "authorId": 12 },
+    { "id": 16, "title": "The Chronicles of Narnia", "authorId": 13 },
+    { "id": 17, "title": "Gone with the Wind", "authorId": 14 },
+    { "id": 18, "title": "Frankenstein", "authorId": 15 },
+    { "id": 19, "title": "One Hundred Years of Solitude", "authorId": 16 },
+    { "id": 20, "title": "The Picture of Dorian Gray", "authorId": 17 }
+]
